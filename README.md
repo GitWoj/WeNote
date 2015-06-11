@@ -6,4 +6,4 @@
 
     Revision：出版社，大家相互分享，相互校订
     Release：图书馆，大家广为传播
-    Require：面向普通中文读者，markdown格式
+    Require：面向中文普通读者；markdown格式
